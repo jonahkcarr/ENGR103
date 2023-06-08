@@ -1,7 +1,7 @@
-# ENGR103
+# Jonah's Absolutely Insane Repository
 
 # Author
 Jonah Carr
 
 ## General Comments
-Code from my Oregon State University Engineering 103 class. The code was made for Circuit Playground Express Arduino Board.
+This repository holds coder from my C++ coding projects and other cool stuff I do in my free time.
