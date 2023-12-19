@@ -1,4 +1,4 @@
-# Jonah's CS 103 Repository
+# BattleShip the Circuit Playground Game
 
 # Author
 Jonah Carr
