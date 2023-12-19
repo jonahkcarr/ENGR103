@@ -1,4 +1,4 @@
-# Jonah's Absolutely Insane Repository
+# Jonah's CS 103 Repository
 
 # Author
 Jonah Carr
